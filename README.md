@@ -1,33 +1,68 @@
-# David Blakney
+# Operations Workforce Analytics  
+### Workforce Productivity & Performance Variability Analysis  
 
-## Data Analytics | Operations & Business Intelligence
+## Business Context
 
-I am an operations leader transitioning into data analytics, currently completing a Bachelor of Science in Data Analytics at Southern New Hampshire University (4.0 GPA).
+Retail operations rely on workforce efficiency, labor allocation, and KPI alignment to drive profitability and service quality. Measuring raw output alone does not provide a complete picture of employee performance.
 
-I focus on practical, business-driven analytics using Python, SQL, and statistics to support data-informed decision-making.
+This project evaluates productivity by normalizing output against hours worked to identify performance variability and operational improvement opportunities.
 
-### Technical Skills
+---
+
+## Objective
+
+- Analyze employee productivity metrics  
+- Identify performance variability across workforce segments  
+- Normalize output to improve fairness and decision accuracy  
+- Provide data-driven recommendations for operational improvement  
+
+---
+
+## Tools Used
+
 - Python (Pandas, NumPy, Matplotlib)
-- SQL (joins, CTEs, window functions)
-- Data Cleaning & Validation
-- Applied Statistics
-- Excel and Business Intelligence tools
+- Jupyter Notebook
+- Data Cleaning & Validation Techniques
+- Exploratory Data Analysis (EDA)
 
-### Portfolio Projects
-- Operations & Workforce Analytics
-- SQL Business Analytics
-- Python Data Analysis
-- Data Quality & Validation
-- Business Intelligence Dashboards
-- Risk & Fraud Analytics
+---
 
-- ## Featured Project: Workforce Productivity Analysis
-This project analyzes employee productivity by normalizing output against hours worked to identify performance variability and opportunities for operational improvement.
+## Analytical Approach
 
-**Tools:** Python, Pandas, Matplotlib, Google Colab  
-**Key Outcome:** Demonstrated how normalized productivity metrics provide clearer insight than total output alone, supporting fair performance evaluation and staffing decisions.
+1. Data ingestion and validation  
+2. Productivity normalization (output per hour)  
+3. Variability and trend analysis  
+4. Visualization of performance distribution  
+5. Development of business-focused recommendations  
 
-📂 Notebook: notebooks/workforce_productivity_analysis.ipynb
+---
 
-### Connect
-- LinkedIn: https://www.linkedin.com/in/davidblakney?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+## Key Insights
+
+- Normalized productivity metrics provided clearer performance comparisons  
+- Identified measurable performance variability across workforce segments  
+- Highlighted the importance of KPI standardization in workforce evaluation  
+
+---
+
+## Business Impact
+
+This framework can support:
+
+- Fair performance evaluation  
+- Data-driven workforce planning  
+- Improved labor allocation strategies  
+- Retail operations efficiency improvement  
+
+---
+
+## Project Files
+
+- `notebooks/workforce_productivity_analysis.ipynb`
+- `business_context.md`
+- `recommendations.md`
+- `datasets/`
+- `screenshots/`
+## Sample Visualization
+
+![Productivity Analysis](screenshots/your_chart_name.png)
